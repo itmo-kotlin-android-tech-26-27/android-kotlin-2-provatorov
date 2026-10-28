@@ -43,6 +43,3 @@ captures/
 
 # macOS
 .DS_Store
-
-# Текст задания
-task-*.md
